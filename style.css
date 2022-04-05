@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Advent+Pro&family=Libre+Baskerville:wght@700&display=swap");
+
+body {
+  background: #c1f8cf;
+  color: #533e85;
+  margin: 0;
+  font-family: "Libre Baskerville", serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  line-height: 20px;
+  margin: 20px;
+}
+
+span {
+  color: #4fd3c4;
+}
+p {
+  background: #b4ece3;
+  color: #145477;
+  font-family: "Advent Pro", sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+  margin: 20px;
+  padding: 30px;
+  max-width: 1024px;
+  margin: auto;
+  border-top: 3px solid #533e85;
+  border-right: 3px solid #533e85;
+  border-left: 3px solid #533e85;
+}
+
+ul {
+  background: #b4ece3;
+  color: #145477;
+  font-family: "Advent Pro", sans-serif;
+  text-align: justify;
+  font-weight: 600;
+  font-size: 25px;
+  margin: 20px;
+  padding: 30px;
+  max-width: 1024px;
+  margin: auto;
+  border-bottom: 3px solid #533e85;
+  border-right: 3px solid #533e85;
+  border-left: 3px solid #533e85;
+}
+.img {
+  width: 400px;
+  height: 330px;
+  background-image: url(https://4.bp.blogspot.com/-uDyPBhN_qQw/WNNa4kHS4xI/AAAAAAAACbU/d7FXFo_v9CoABu-mCB7dyfKNnlG9USjNgCLcB/s320/gandalf2.png);
+  background-size: cover;
+  background-position: center;
+  margin: 30px auto;
+  border-radius: 100px;
+  border-radius: 80px 80px 80px 80px;
+  border: 3px dotted #533e85;
+}
